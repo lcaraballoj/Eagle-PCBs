@@ -1,0 +1,43 @@
+Screaming Circuits SMD component position file.
+Created by Centroid_ScreamingCircuits_smd.ulp 1.2.0.
+
+Centroid Data for pc board: "SHUduino.brd" as of: 12/17/21 2:01 PM
+Measurements are in inches. Comma delimited
+Only surface mount components included
+
+RefDes,Layer,LocationX,LocationY,Rotation
+C1,Top,3.100,0.175,180
+C2,Top,0.600,0.200,0
+C3,Top,0.400,0.500,0
+C4,Top,3.450,0.175,0
+C5,Top,2.200,0.158,0
+C6,Top,0.950,0.900,90
+C7,Top,1.000,0.250,211.2
+C8,Top,3.980,1.535,0
+C9,Top,3.493,1.620,0
+C10,Top,3.493,1.350,0
+D1,Top,1.650,0.600,0
+IC1,Top,0.750,1.400,0
+LED1,Top,2.150,1.100,0
+LED2,Top,2.000,1.100,0
+LED3,Top,1.850,1.100,0
+LED4,Top,1.920,1.210,0
+LED5,Top,2.150,1.700,0
+LED6,Top,2.850,1.700,0
+LED7,Top,4.150,1.100,254.7
+LED8,Top,2.450,0.158,0
+LED9,Top,1.600,0.158,0
+LED10,Top,0.450,1.100,90
+R1,Top,1.250,1.400,90
+R2,Top,2.150,1.200,0
+R3,Top,1.950,0.600,0
+R4,Top,4.210,1.615,180
+R5,Top,1.250,0.850,90
+R6,Top,0.650,0.900,90
+R7,Top,2.870,1.519,0
+R8,Top,2.615,1.519,0
+S1,Top,3.250,1.200,0
+U$1,Bottom,4.045,0.530,292.7
+U1,Top,2.475,0.700,180
+U2,Top,3.860,1.165,251.4
+U4,Top,3.220,1.520,0

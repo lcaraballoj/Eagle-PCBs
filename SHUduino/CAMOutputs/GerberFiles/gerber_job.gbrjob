@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2022-02-15T16:17:47Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "SHUduino"
+        },
+        "Owner": "Linnea Caraballo <ljc42000@gmail.com>",
+        "Size": {
+            "X": 115.5648,
+            "Y": 46.0564
+        }
+    }
+}
