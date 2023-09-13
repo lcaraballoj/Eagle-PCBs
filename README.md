@@ -2,7 +2,16 @@
 This is a collection of some Eagle PCB designs that I created during my time working at the [Sacred Heart University IDEA Lab](https://www.sacredheart.edu/academics/colleges--schools/school-of-computer-science--engineering/facilities/idea-lab/).
 
 ## <a href="https://github.com/lcaraballoj/Arduino-Gamepad" target="_blank">Gamepad</a>
-The Gamepad PCB is a PCB that was created for a USB gamepad powered by a Arduino Pro Micro. The PCB was utilized in a workshop in which participants could learn to through-hole solder using the custom PCBs.
+The Gamepad PCB is a PCB that was created for a USB gamepad powered by an Arduino Pro Micro. The PCB was utilized in a workshop in which participants could learn to through-hole solder using the custom PCBs.
+
+Buttons
+<img width="484" alt="image" src="https://github.com/lcaraballoj/Eagle-PCBs/assets/71469786/33f36f45-2d50-4f71-8aee-cea75a3545c9">
+
+
+Main Body
+<img width="632" alt="image" src="https://github.com/lcaraballoj/Eagle-PCBs/assets/71469786/ecdde8f3-9f3f-49ec-9113-b5a660858bc1">
+
+
 
 ## Pumpkin PCB
 This was a PCB that was created for a workshop in which users learned to through-hold solder by soldering LEDs arranged to create a Jack O'Latern. 
